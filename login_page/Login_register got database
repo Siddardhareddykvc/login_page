@@ -1,5 +1,5 @@
 
-	1       id	   int(11)	      Primary	
-	2	full_name  varchar(128)	
-	3	email	   varchar(255)		
-	4	password   varchar(255)	
+	1       id          int(11)	      Primary	
+	2	full_name          varchar(128)	
+	3	email          varchar(255)		
+	4	password          varchar(255)	
